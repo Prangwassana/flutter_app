@@ -18,7 +18,7 @@ class _StudentPageState extends State<StudentPage> {
     onPressed: (){
     Navigator.pop(context);
     },
-    child:  Text("Back"),
+    child:  Text("กลับ"),
     ),
     ),
     );
